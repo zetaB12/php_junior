@@ -34,12 +34,12 @@
                             <p>
                                 <label>E-mail</label>
                                 <span>*</span>
-                                <input type="text" name="email">
+                                <input type="text" name="email" placeholder="e-mail">
                             </p>
                             <p>
                                 <label>Password</label>
                                 <span>*</span>
-                                <input type="password" name="password">
+                                <input type="password" name="password" placeholder="password">
                             </p>
                             <p id="login-form-remember">
                                 <label><a href="#">Forget Your Password ? </a></label>
